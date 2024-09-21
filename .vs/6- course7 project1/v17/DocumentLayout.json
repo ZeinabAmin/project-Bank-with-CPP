@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dr\\source\\repos\\6- course7 project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB179C7-66A0-4526-954A-132B159DCA15}|6- course7 project1\\6- course7 project1.vcxproj|C:\\Users\\dr\\source\\repos\\6- course7 project1\\6- course7 project1\\6- course7 project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFB179C7-66A0-4526-954A-132B159DCA15}|6- course7 project1\\6- course7 project1.vcxproj|solutionrelative:6- course7 project1\\6- course7 project1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6- course7 project1.cpp",
+              "DocumentMoniker": "C:\\Users\\dr\\source\\repos\\6- course7 project1\\6- course7 project1\\6- course7 project1.cpp",
+              "RelativeDocumentMoniker": "6- course7 project1\\6- course7 project1.cpp",
+              "ToolTip": "C:\\Users\\dr\\source\\repos\\6- course7 project1\\6- course7 project1\\6- course7 project1.cpp",
+              "RelativeToolTip": "6- course7 project1\\6- course7 project1.cpp",
+              "ViewState": "AQIAAP4BAAAAAAAAAAAAABwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-28T07:27:32.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

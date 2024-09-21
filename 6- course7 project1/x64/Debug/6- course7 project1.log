@@ -1,0 +1,5 @@
+﻿  6- course7 project1.cpp
+C:\Users\dr\source\repos\6- course7 project1\6- course7 project1\6- course7 project1.cpp(30,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\dr\source\repos\6- course7 project1\6- course7 project1\6- course7 project1.cpp(344,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\dr\source\repos\6- course7 project1\6- course7 project1\6- course7 project1.cpp(379,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  6- course7 project1.vcxproj -> C:\Users\dr\source\repos\6- course7 project1\x64\Debug\6- course7 project1.exe
